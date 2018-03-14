@@ -6,7 +6,6 @@ An example address book project
 ### Installation
 
     git clone https://github.com/haci6189/nodeJSDemo3.git
-    cd Address.Book
     npm install
 
 ### Run
